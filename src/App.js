@@ -49,7 +49,7 @@ function App() {
         <button className="hamburger-menu" onClick={toggleMenu}>
           ☰
         </button>
-        <p>Apple Buyers Guide</p>
+        <p>Apple Buyer's Guide - August 2024</p>
         <ul className={`navbar-links ${menuOpen ? 'show' : ''}`}>
           <li><Link to="/" onClick={handleMenuClick}>Home</Link></li>
           <li><Link to="/iphone" onClick={handleMenuClick}>iPhone</Link></li>
