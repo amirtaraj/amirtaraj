@@ -50,6 +50,7 @@ function App() {
           <button className="hamburger-menu" onClick={toggleMenu}>
             ☰
           </button>
+          <p>Apple Buyers Guide</p>
           <ul className={`navbar-links ${menuOpen ? 'show' : ''}`}>
             <li><Link to="/" onClick={handleMenuClick}>Home</Link></li>
             <li><Link to="/iphone" onClick={handleMenuClick}>iPhone Guide</Link></li>
@@ -101,7 +102,10 @@ function App() {
         </div>
        
         <footer className="bottom-bar">
-          <Link to="/contact-us" className="footer-link">Last Updated: 20240816</Link>
+        <Link to="https://www.amirtaraj.com" className="footer-link" target="_blank" rel="noopener noreferrer">
+  Contact Us
+</Link>
+
           <div className="social-media-links">
             <a href="https://www.facebook.com/amirtaraj.r/" target="_blank" rel="noopener noreferrer">Facebook</a>
             <a href="https://twitter.com/amirtaraj" target="_blank" rel="noopener noreferrer">Twitter</a>
