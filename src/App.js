@@ -53,14 +53,14 @@ function App() {
           <p>Apple Buyers Guide</p>
           <ul className={`navbar-links ${menuOpen ? 'show' : ''}`}>
             <li><Link to="/" onClick={handleMenuClick}>Home</Link></li>
-            <li><Link to="/iphone" onClick={handleMenuClick}>iPhone Guide</Link></li>
-            <li><Link to="/ipad" onClick={handleMenuClick}>iPad Guide</Link></li>
-            <li><Link to="/watch" onClick={handleMenuClick}>Watch Guide</Link></li>
-            <li><Link to="/airpods" onClick={handleMenuClick}>AirPods Guide</Link></li>
-            <li><Link to="/mac" onClick={handleMenuClick}>Mac Guide</Link></li>
-            <li><Link to="/home" onClick={handleMenuClick}>Home Guide</Link></li>
-            <li><Link to="/vision" onClick={handleMenuClick}>Vision Guide</Link></li>
-            <li><Link to="/accessories" onClick={handleMenuClick}>Accessories Guide</Link></li>
+            <li><Link to="/iphone" onClick={handleMenuClick}>iPhone</Link></li>
+            <li><Link to="/ipad" onClick={handleMenuClick}>iPad</Link></li>
+            <li><Link to="/watch" onClick={handleMenuClick}>Watch</Link></li>
+            <li><Link to="/airpods" onClick={handleMenuClick}>AirPods</Link></li>
+            <li><Link to="/mac" onClick={handleMenuClick}>Mac</Link></li>
+            <li><Link to="/home" onClick={handleMenuClick}>Home</Link></li>
+            <li><Link to="/vision" onClick={handleMenuClick}>Vision</Link></li>
+            <li><Link to="/accessories" onClick={handleMenuClick}>Accessories</Link></li>
           </ul>
           <button className="theme-switcher" onClick={toggleTheme}>
             {theme === 'light' ? '🌙' : '🌞'}
@@ -69,14 +69,14 @@ function App() {
         <div className={`breadcrumb ${breadcrumbOpen ? 'show' : ''}`}>
           <button className="breadcrumb-close" onClick={toggleBreadcrumb}>✕</button>
           <Link to="/" onClick={() => { setBreadcrumbOpen(false); }}>Home</Link>
-          <Link to="/iphone" onClick={() => { setBreadcrumbOpen(false); }}>iPhone Guide</Link>
-          <Link to="/ipad" onClick={() => { setBreadcrumbOpen(false); }}>iPad Guide</Link>
-          <Link to="/watch" onClick={() => { setBreadcrumbOpen(false); }}>Watch Guide</Link>
-          <Link to="/airpods" onClick={() => { setBreadcrumbOpen(false); }}>AirPods Guide</Link>
-          <Link to="/mac" onClick={() => { setBreadcrumbOpen(false); }}>Mac Guide</Link>
-          <Link to="/home" onClick={() => { setBreadcrumbOpen(false); }}>Home Guide</Link>
-          <Link to="/vision" onClick={() => { setBreadcrumbOpen(false); }}>Vision Guide</Link>
-          <Link to="/accessories" onClick={() => { setBreadcrumbOpen(false); }}>Accessories Guide</Link>
+          <Link to="/iphone" onClick={() => { setBreadcrumbOpen(false); }}>iPhone</Link>
+          <Link to="/ipad" onClick={() => { setBreadcrumbOpen(false); }}>iPad</Link>
+          <Link to="/watch" onClick={() => { setBreadcrumbOpen(false); }}>Watch</Link>
+          <Link to="/airpods" onClick={() => { setBreadcrumbOpen(false); }}>AirPods</Link>
+          <Link to="/mac" onClick={() => { setBreadcrumbOpen(false); }}>Mac</Link>
+          <Link to="/home" onClick={() => { setBreadcrumbOpen(false); }}>Home</Link>
+          <Link to="/vision" onClick={() => { setBreadcrumbOpen(false); }}>Vision</Link>
+          <Link to="/accessories" onClick={() => { setBreadcrumbOpen(false); }}>Accessories</Link>
         </div>
         <Routes>
           <Route path="/" element={<Home />} />
