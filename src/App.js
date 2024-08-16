@@ -57,7 +57,7 @@ function App() {
           <li><Link to="/watch" onClick={handleMenuClick}>Watch</Link></li>
           <li><Link to="/airpods" onClick={handleMenuClick}>AirPods</Link></li>
           <li><Link to="/mac" onClick={handleMenuClick}>Mac</Link></li>
-          <li><Link to="/home" onClick={handleMenuClick}>Home</Link></li>
+          <li><Link to="/home" onClick={handleMenuClick}>TV</Link></li>
           <li><Link to="/vision" onClick={handleMenuClick}>Vision</Link></li>
           <li><Link to="/accessories" onClick={handleMenuClick}>Accessories</Link></li>
         </ul>
@@ -73,7 +73,7 @@ function App() {
         <Link to="/watch" onClick={() => { setBreadcrumbOpen(false); }}>Watch</Link>
         <Link to="/airpods" onClick={() => { setBreadcrumbOpen(false); }}>AirPods</Link>
         <Link to="/mac" onClick={() => { setBreadcrumbOpen(false); }}>Mac</Link>
-        <Link to="/home" onClick={() => { setBreadcrumbOpen(false); }}>Home</Link>
+        <Link to="/home" onClick={() => { setBreadcrumbOpen(false); }}>TV</Link>
         <Link to="/vision" onClick={() => { setBreadcrumbOpen(false); }}>Vision</Link>
         <Link to="/accessories" onClick={() => { setBreadcrumbOpen(false); }}>Accessories</Link>
       </div>
