@@ -1,0 +1,13 @@
+/* src/pages/IPhoneGuide.css */
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .responsive-image {
+    max-width: 100%;
+    height: auto; /* Maintains aspect ratio */
+  }
+  
