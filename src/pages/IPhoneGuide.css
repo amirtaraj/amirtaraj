@@ -1,13 +1,13 @@
-/* src/pages/IPhoneGuide.css */
 .image-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-  }
-  
-  .responsive-image {
-    max-width: 100%;
-    height: auto; /* Maintains aspect ratio */
-  }
-  
+  display: flex;
+  flex-direction: column; /* Stack images vertically */
+  align-items: center;    /* Center images horizontally */
+  gap: 20px;              /* Optional: Space between images */
+  padding: 20px;          /* Optional: Add padding around the container */
+}
+
+.responsive-image {
+  max-width: 100%;        /* Ensure images scale responsively */
+  height: auto;           /* Maintain aspect ratio */
+  display: block;
+}
