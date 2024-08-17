@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div>
-      <nav className="navbar">
+      <nav className={`navbar ${theme}`}>
         <button className="hamburger-menu" onClick={toggleMenu}>
           ☰
         </button>
