@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# Hi 👋, I'm Amirtaraj Ragavan
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Technical Lead | QA Architect | Salesforce Test Automation Expert | AI Enthusiast
 
-## Available Scripts
+With 11+ years of experience in Software Quality Engineering, I specialize in building scalable automation frameworks, leading QA teams, and driving quality transformation initiatives across Salesforce and enterprise applications.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔭 Technical Lead focusing on Quality Engineering and Test Automation
+- 🌩️ Salesforce QA & Automation Specialist
+- 🤖 Exploring Agentic AI for Test Automation and Enterprise Productivity
+- 🧪 Expert in UI, API, Integration, and End-to-End Automation Testing
+- 📈 Passionate about building scalable testing frameworks and CI/CD pipelines
+- 🎯 Advocate for Shift-Left Testing, Continuous Testing, and Quality Engineering
+- 🌱 Currently exploring AI-powered testing agents using Copilot, Playwright, and LLMs
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🌐 Connect With Me
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🌍 Website: [www.amirtaraj.com](https://www.amirtaraj.com)
+- 💼 GitHub: [github.com/amragavan](https://github.com/amragavan)
+- 📧 Reach me via GitHub discussions or project repositories
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Test Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
 
-### `npm run eject`
+### API Testing
+![Rest Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Salesforce
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### DevOps & CI/CD
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🤖 Current Interests
 
-## Learn More
+- Agentic AI for Test Automation
+- LLM-powered Test Case Generation
+- Playwright + AI Integration
+- Microsoft 365 Copilot
+- Autonomous Quality Engineering
+- AI-assisted Code Review
+- Continuous Testing at Scale
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📌 Featured Projects
 
-### Code Splitting
+### 🧠 TestGen Studio
+AI-powered test automation prompt builder designed to accelerate test case and automation development.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🔄 Salesforce Automation Framework
+Enterprise-grade automation framework for Salesforce applications supporting UI, API, and integration testing.
 
-### Analyzing the Bundle Size
+### 🤖 Agentic QA Solutions
+Experimental AI agents for requirement analysis, test design, automation generation, and defect prediction.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📊 GitHub Stats
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amragavan&show_icons=true&theme=github_dark)
 
-### Advanced Configuration
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amragavan&layout=compact&theme=github_dark)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 💡 Favorite Quote
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+> "Quality is never an accident; it is always the result of intelligent effort."
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ If you find my projects useful, don't forget to star the repositories.
